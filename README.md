@@ -9,3 +9,6 @@ My favorite extensions for Visual Studio Code
 - [DocFX](https://marketplace.visualstudio.com/items?itemName=ms-docfx.DocFX) - An amazing tool that makes authoring of DocFX-based documentation even more convenient, the main features include previewing DocFX generated conceptual documents, generating token tree of markdown file
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier
+
+## Themes
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code
