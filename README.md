@@ -6,6 +6,13 @@ My favorite extensions for Visual Studio Code
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 
+## Snippets
+
+### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
+
+Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-icon-fonts/master/images/screenshot.gif)
+
 ## Themes
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code
 - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code
