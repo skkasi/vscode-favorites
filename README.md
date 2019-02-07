@@ -9,9 +9,12 @@ My favorite extensions for Visual Studio Code
 ## Snippets
 
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
-
 Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
 ![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-icon-fonts/master/images/screenshot.gif)
+
+### [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.
+![Document This](https://raw.githubusercontent.com/joelday/vscode-docthis/master/images/demo.gif)
 
 ## Themes
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code
