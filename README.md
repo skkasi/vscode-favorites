@@ -49,21 +49,27 @@ Improve your code commenting by annotating with alert, informational, TODOs, and
 
 ### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) 
 Mark lines and jump to them
+![Bookmarks](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
 
 ### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 Spelling checker for source code
+![Code Spell Checker](https://raw.githubusercontent.com/Jason-Rev/vscode-spell-checker/master/client/images/example.gif)
 
 ### [DocFX](https://marketplace.visualstudio.com/items?itemName=ms-docfx.DocFX) 
 An amazing tool that makes authoring of DocFX-based documentation even more convenient, the main features include previewing DocFX generated conceptual documents, generating token tree of markdown file
+![DocFX](https://github.com/dotnet/docfx/raw/master/tools/VscExtension/images/previewToSide.gif)
 
 ### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) 
 View git log, file history, compare branches or commits
+![Git History](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/gitLogv2.gif)
 
 ### [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
 Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+![GitLens](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/docs/gitlens-preview.gif)
 
 ### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) 
 Visual Studio Code plugin that autocompletes filenames
+![Path Intellisense](http://i.giphy.com/iaHeUiDeTUZuo.gif)
 
 ### [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 
 VS Code plugin for prettier/prettier
