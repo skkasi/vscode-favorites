@@ -45,6 +45,7 @@ Some of the most popular (and some 'Loiane Groner' find very useful) Angular ext
 
 ### [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) 
 Improve your code commenting by annotating with alert, informational, TODOs, and more!
+![Better Comments](https://raw.githubusercontent.com/aaron-bond/better-comments/master/images/better-comments.PNG)
 
 ### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) 
 Mark lines and jump to them
