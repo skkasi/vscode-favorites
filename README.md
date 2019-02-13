@@ -8,6 +8,7 @@ Code snippets for JavaScript in ES6 syntax
 
 ### [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) 
 Display import/require package size in the editor
+![Import Cost](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 
 ### [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 Live Scratchpad for JavaScript.
