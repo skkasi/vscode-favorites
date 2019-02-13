@@ -12,6 +12,7 @@ Display import/require package size in the editor
 
 ### [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 Live Scratchpad for JavaScript.
+![Quokka.js](https://quokkajs.com/assets/img/vsc1.gif)
 
 ## Snippets
 
