@@ -21,10 +21,14 @@ Automatically generates detailed JSDoc comments in TypeScript and JavaScript fil
 - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code
 
 ## Uncategorized
+
+### [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+A customizable extension for colorizing matching brackets
+![Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2/blob/develop/images/example.png)
+
 - [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - Some of the most popular (and some 'Loiane Groner' find very useful) Angular extensions.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)- A customizable extension for colorizing matching brackets
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
 - [DocFX](https://marketplace.visualstudio.com/items?itemName=ms-docfx.DocFX) - An amazing tool that makes authoring of DocFX-based documentation even more convenient, the main features include previewing DocFX generated conceptual documents, generating token tree of markdown file
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
