@@ -32,6 +32,7 @@ Material Design Icons for Visual Studio Code
 
 ### [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 The most epic theme now for Visual Studio Code
+![Material Theme](https://raw.githubusercontent.com/equinusocio/vsc-material-theme/master/assets/screen.jpg)
 
 ## Uncategorized
 
