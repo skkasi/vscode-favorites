@@ -44,7 +44,7 @@ The most epic theme now for Visual Studio Code
 
 ### [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 A customizable extension for colorizing matching brackets
-![Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2/blob/develop/images/example.png)
+![Bracket Pair Colorizer 2](https://raw.githubusercontent.com/CoenraadS/Bracket-Pair-Colorizer-2/develop/images/example.png)
 
 ### [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 Some of the most popular (and some 'Loiane Groner' find very useful) Angular extensions.
