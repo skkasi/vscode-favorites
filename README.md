@@ -48,7 +48,7 @@ Improve your code commenting by annotating with alert, informational, TODOs, and
 ![Better Comments](https://raw.githubusercontent.com/aaron-bond/better-comments/master/images/better-comments.PNG)
 
 ### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) 
-Mark lines and jump to them
+Mark lines and jump to them  
 ![Bookmarks](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
 
 ### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -68,7 +68,7 @@ Supercharge the Git capabilities built into Visual Studio Code — Visualize cod
 ![GitLens](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/docs/gitlens-preview.gif)
 
 ### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) 
-Visual Studio Code plugin that autocompletes filenames
+Visual Studio Code plugin that autocompletes filenames  
 ![Path Intellisense](http://i.giphy.com/iaHeUiDeTUZuo.gif)
 
 ### [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 
