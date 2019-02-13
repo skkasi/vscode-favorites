@@ -16,13 +16,19 @@ Live Scratchpad for JavaScript.
 
 ## Snippets
 
+### [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.
+![Document This](https://raw.githubusercontent.com/joelday/vscode-docthis/master/images/demo.gif)
+
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!  
 ![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-icon-fonts/master/images/screenshot.gif)
 
-### [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.
-![Document This](https://raw.githubusercontent.com/joelday/vscode-docthis/master/images/demo.gif)
+## Other
+
+### [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+📸 Polaroid for your code
+![Polacode](https://github.com/octref/polacode/raw/master/demo/usage.gif)
 
 ## Themes
 
