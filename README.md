@@ -14,6 +14,11 @@ Display import/require package size in the editor
 Live Scratchpad for JavaScript.
 ![Quokka.js](https://quokkajs.com/assets/img/vsc1.gif)
 
+## Programming Languages
+
+### [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+TSLint support for Visual Studio Code
+
 ## Snippets
 
 ### [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
