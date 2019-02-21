@@ -21,6 +21,10 @@ TSLint support for Visual Studio Code
 
 ## Snippets
 
+### [Angular v7 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+Angular v7 snippets by John Papa
+![Angular v7 Snippets](https://raw.githubusercontent.com/johnpapa/vscode-angular-snippets/master/images/use-extension.gif)
+
 ### [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
 Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.
 ![Document This](https://raw.githubusercontent.com/joelday/vscode-docthis/master/images/demo.gif)
