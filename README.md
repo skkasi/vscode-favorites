@@ -1,5 +1,5 @@
 # vscode-favorites
-My favorite extensions for Visual Studio Code
+My favorite extensions for Visual Studio Codes
 
 ## JavaScript
 
